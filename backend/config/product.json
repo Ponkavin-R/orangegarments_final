@@ -1,0 +1,971 @@
+[
+    {
+      "_id": {
+        "$oid": "66706c6aed5e63431cbf7941"
+      },
+      "productName": "Classic Cotton Shirt",
+      "brandName": "Urban Attire",
+      "category": "shirt",
+      "productImage": [
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643660/shirt1_front.webp",
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643665/shirt1_back.webp"
+      ],
+      "productDesc": "Stay cool and stylish with this classic cotton shirt, perfect for everyday wear. Available in multiple colors.",
+      "price": 999,
+      "sellingPrice": 799,
+      "createdAt": {
+        "$date": "2024-06-17T17:03:38.783Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-18T08:02:57.833Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66706cdfed5e63431cbf7945"
+      },
+      "productName": "Slim Fit Checkered Shirt",
+      "brandName": "HighStreet",
+      "category": "shirt",
+      "productImage": [
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643867/shirt2_front.webp",
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643872/shirt2_side.webp"
+      ],
+      "productDesc": "A stylish slim fit checkered shirt for a smart-casual look. Perfect for work or a night out.",
+      "price": 1299,
+      "sellingPrice": 999,
+      "createdAt": {
+        "$date": "2024-06-17T17:05:35.275Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-18T08:02:52.942Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66706d32ed5e63431cbf7949"
+      },
+      "productName": "Linen Blend Casual Shirt",
+      "brandName": "Nature Threads",
+      "category": "shirt",
+      "productImage": [
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643953/shirt3_front.webp",
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643953/shirt3_back.webp"
+      ],
+      "productDesc": "Crafted from a breathable linen blend, this shirt is ideal for warm weather and casual outings.",
+      "price": 1499,
+      "sellingPrice": 1299,
+      "createdAt": {
+        "$date": "2024-06-17T17:06:58.925Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-18T08:02:47.712Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66706d77ed5e63431cbf794d"
+      },
+      "productName": "Denim Button-Down Shirt",
+      "brandName": "DenimCo",
+      "category": "shirt",
+      "productImage": [
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644029/shirt4_front.webp",
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644029/shirt4_back.webp"
+      ],
+      "productDesc": "A timeless denim button-down shirt, versatile for both casual and semi-formal occasions.",
+      "price": 1999,
+      "sellingPrice": 1699,
+      "createdAt": {
+        "$date": "2024-06-17T17:08:07.783Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-18T08:02:42.091Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66706c32ed5e63431cbf7912"
+      },
+      "productName": "Printed Tropical Shirt",
+      "brandName": "Tropical Vibes",
+      "category": "shirt",
+      "productImage": [
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644060/shirt5_front.webp",
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644060/shirt5_back.webp"
+      ],
+      "productDesc": "Stand out in style with this tropical print shirt. Perfect for beach vacations or casual outings.",
+      "price": 1399,
+      "sellingPrice": 1099,
+      "createdAt": {
+        "$date": "2024-06-17T17:08:15.123Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-18T08:03:15.321Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66706c5aed5e63431cbf7935"
+      },
+      "productName": "Oxford White Shirt",
+      "brandName": "Formals Pro",
+      "category": "shirt",
+      "productImage": [
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644075/shirt6_front.webp",
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644075/shirt6_back.webp"
+      ],
+      "productDesc": "A crisp white Oxford shirt that is an essential part of any formal wardrobe.",
+      "price": 1599,
+      "sellingPrice": 1399,
+      "createdAt": {
+        "$date": "2024-06-17T17:08:22.321Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-18T08:03:30.432Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66706f2aed5e63431cbf7951"
+      },
+      "productName": "Flannel Checked Shirt",
+      "brandName": "Winter Wear",
+      "category": "shirt",
+      "productImage": [
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644082/shirt7_front.webp",
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644082/shirt7_back.webp"
+      ],
+      "productDesc": "Stay warm and stylish with this cozy flannel checked shirt, perfect for chilly days.",
+      "price": 1799,
+      "sellingPrice": 1599,
+      "createdAt": {
+        "$date": "2024-06-17T17:08:45.789Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-18T08:04:12.112Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66706a32ed5e63431cbf7949"
+      },
+      "productName": "Mandarin Collar Shirt",
+      "brandName": "Eastern Flair",
+      "category": "shirt",
+      "productImage": [
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644093/shirt8_front.webp",
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644093/shirt8_back.webp"
+      ],
+      "productDesc": "This mandarin collar shirt adds a touch of elegance and is ideal for semi-formal occasions.",
+      "price": 1499,
+      "sellingPrice": 1299,
+      "createdAt": {
+        "$date": "2024-06-17T17:09:22.894Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-18T08:04:29.884Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66706b2aed5e63431cbf7949"
+      },
+      "productName": "Graphic Printed Shirt",
+      "brandName": "StreetWear",
+      "category": "shirt",
+      "productImage": [
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644104/shirt9_front.webp",
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644104/shirt9_back.webp"
+      ],
+      "productDesc": "A bold graphic printed shirt for a street-style look. Available in various colors and designs.",
+      "price": 1199,
+      "sellingPrice": 999,
+      "createdAt": {
+        "$date": "2024-06-17T17:09:55.013Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-18T08:05:13.334Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66706d12ed5e63431cbf7921"
+      },
+      "productName": "Striped Business Shirt",
+      "brandName": "Corporate Style",
+      "category": "shirt",
+      "productImage": [
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644115/shirt10_front.webp",
+        "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644115/shirt10_back.webp"
+      ],
+      "productDesc": "Perfect for the office, this striped business shirt offers comfort and a professional look.",
+      "price": 1899,
+      "sellingPrice": 1699,
+      "createdAt": {
+        "$date": "2024-06-17T17:10:22.543Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-18T08:05:54.019Z"
+      },
+      "__v": 0
+    },
+    {
+        "_id": {
+          "$oid": "66716a6aed5e63431cbf7941"
+        },
+        "productName": "Slim Fit Chinos",
+        "brandName": "Urban Attire",
+        "category": "pant",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643660/pant1_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643665/pant1_back.webp"
+        ],
+        "productDesc": "These slim fit chinos offer a modern look and comfort, perfect for both casual and formal wear.",
+        "price": 1299,
+        "sellingPrice": 999,
+        "createdAt": {
+          "$date": "2024-06-18T17:03:38.783Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:02:57.833Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716c7aed5e63431cbf7945"
+        },
+        "productName": "Regular Fit Jeans",
+        "brandName": "DenimCo",
+        "category": "pant",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643873/pant2_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643877/pant2_back.webp"
+        ],
+        "productDesc": "Classic regular fit jeans made from premium denim for all-day comfort and style.",
+        "price": 1599,
+        "sellingPrice": 1399,
+        "createdAt": {
+          "$date": "2024-06-18T17:05:35.275Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:02:52.942Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d3aed5e63431cbf7949"
+        },
+        "productName": "Relaxed Fit Cargo Pants",
+        "brandName": "HighStreet",
+        "category": "pant",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643953/pant3_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643953/pant3_back.webp"
+        ],
+        "productDesc": "These relaxed fit cargo pants are designed for utility and style, with plenty of pockets for all your essentials.",
+        "price": 1799,
+        "sellingPrice": 1499,
+        "createdAt": {
+          "$date": "2024-06-18T17:06:58.925Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:02:47.712Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d77ed5e63431cbf794d"
+        },
+        "productName": "Tapered Stretch Trousers",
+        "brandName": "FlexWear",
+        "category": "pant",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644029/pant4_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644029/pant4_back.webp"
+        ],
+        "productDesc": "These tapered stretch trousers combine comfort with a sleek silhouette, ideal for everyday wear.",
+        "price": 1499,
+        "sellingPrice": 1199,
+        "createdAt": {
+          "$date": "2024-06-18T17:08:07.783Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:02:42.091Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716f32ed5e63431cbf7942"
+        },
+        "productName": "Tailored Fit Dress Pants",
+        "brandName": "Formals Pro",
+        "category": "pant",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644061/pant5_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644061/pant5_back.webp"
+        ],
+        "productDesc": "Tailored fit dress pants designed for a polished, professional appearance. Ideal for formal settings.",
+        "price": 1999,
+        "sellingPrice": 1699,
+        "createdAt": {
+          "$date": "2024-06-18T17:08:15.123Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:03:15.321Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716f6aed5e63431cbf7946"
+        },
+        "productName": "Jogger Pants",
+        "brandName": "StreetStyle",
+        "category": "pant",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644075/pant6_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644075/pant6_back.webp"
+        ],
+        "productDesc": "Stay comfortable and on-trend with these jogger pants, featuring an elastic waistband and ankle cuffs.",
+        "price": 1299,
+        "sellingPrice": 1099,
+        "createdAt": {
+          "$date": "2024-06-18T17:08:22.321Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:03:30.432Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716c2aed5e63431cbf7949"
+        },
+        "productName": "Cargo Joggers",
+        "brandName": "Outdoor Gear",
+        "category": "pant",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644082/pant7_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644082/pant7_back.webp"
+        ],
+        "productDesc": "These cargo joggers are built for outdoor adventures, with ample pocket space and durable fabric.",
+        "price": 1499,
+        "sellingPrice": 1299,
+        "createdAt": {
+          "$date": "2024-06-18T17:08:45.789Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:04:12.112Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716c32ed5e63431cbf7949"
+        },
+        "productName": "Linen Blend Pants",
+        "brandName": "Nature Threads",
+        "category": "pant",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644093/pant8_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644093/pant8_back.webp"
+        ],
+        "productDesc": "Stay cool and stylish in these linen blend pants, perfect for warm weather and casual settings.",
+        "price": 1399,
+        "sellingPrice": 1199,
+        "createdAt": {
+          "$date": "2024-06-18T17:09:22.894Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:04:29.884Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716b2aed5e63431cbf7949"
+        },
+        "productName": "Stretch Skinny Jeans",
+        "brandName": "DenimCo",
+        "category": "pant",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644104/pant9_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644104/pant9_back.webp"
+        ],
+        "productDesc": "Skinny jeans with added stretch for comfort and a sleek, modern look.",
+        "price": 1499,
+        "sellingPrice": 1299,
+        "createdAt": {
+          "$date": "2024-06-18T17:09:55.013Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:05:13.334Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716a6aed5e63431cbf7941"
+        },
+        "productName": "Graphic Tee",
+        "brandName": "Urban Style",
+        "category": "tshirt",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643660/tshirt1_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643665/tshirt1_back.webp"
+        ],
+        "productDesc": "A trendy graphic tee that adds a pop of color to your wardrobe.",
+        "price": 999,
+        "sellingPrice": 799,
+        "createdAt": {
+          "$date": "2024-06-18T17:03:38.783Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:02:57.833Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716c7aed5e63431cbf7945"
+        },
+        "productName": "Basic Crew Neck T-Shirt",
+        "brandName": "Essentials",
+        "category": "tshirt",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643873/tshirt2_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643877/tshirt2_back.webp"
+        ],
+        "productDesc": "A comfortable basic crew neck t-shirt, perfect for everyday wear.",
+        "price": 699,
+        "sellingPrice": 499,
+        "createdAt": {
+          "$date": "2024-06-18T17:05:35.275Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:02:52.942Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d3aed5e63431cbf7949"
+        },
+        "productName": "V-Neck T-Shirt",
+        "brandName": "Classic Fit",
+        "category": "tshirt",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643953/tshirt3_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718643953/tshirt3_back.webp"
+        ],
+        "productDesc": "A versatile v-neck t-shirt that can be dressed up or down.",
+        "price": 799,
+        "sellingPrice": 599,
+        "createdAt": {
+          "$date": "2024-06-18T17:06:58.925Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:02:47.712Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d77ed5e63431cbf794d"
+        },
+        "productName": "Striped T-Shirt",
+        "brandName": "Beach Wear",
+        "category": "tshirt",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644029/tshirt4_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644029/tshirt4_back.webp"
+        ],
+        "productDesc": "Stay stylish with this classic striped t-shirt, ideal for a casual day out.",
+        "price": 899,
+        "sellingPrice": 699,
+        "createdAt": {
+          "$date": "2024-06-18T17:08:07.783Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:02:42.091Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716f32ed5e63431cbf7942"
+        },
+        "productName": "Round Neck Cotton T-Shirt",
+        "brandName": "Cotton Comfort",
+        "category": "tshirt",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644061/tshirt5_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644061/tshirt5_back.webp"
+        ],
+        "productDesc": "A soft round neck cotton t-shirt designed for comfort and breathability.",
+        "price": 799,
+        "sellingPrice": 599,
+        "createdAt": {
+          "$date": "2024-06-18T17:08:15.123Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:03:15.321Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716f6aed5e63431cbf7946"
+        },
+        "productName": "Polo T-Shirt",
+        "brandName": "Sporty Style",
+        "category": "tshirt",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644075/tshirt6_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644075/tshirt6_back.webp"
+        ],
+        "productDesc": "Elevate your casual look with this classic polo t-shirt, perfect for any occasion.",
+        "price": 1299,
+        "sellingPrice": 1099,
+        "createdAt": {
+          "$date": "2024-06-18T17:08:22.321Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:03:30.432Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716c2aed5e63431cbf7949"
+        },
+        "productName": "Printed T-Shirt",
+        "brandName": "Trendy Looks",
+        "category": "tshirt",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644082/tshirt7_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644082/tshirt7_back.webp"
+        ],
+        "productDesc": "A fun printed t-shirt that makes a statement and adds flair to your outfit.",
+        "price": 999,
+        "sellingPrice": 799,
+        "createdAt": {
+          "$date": "2024-06-18T17:08:45.789Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:04:12.112Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716c32ed5e63431cbf7949"
+        },
+        "productName": "Long Sleeve T-Shirt",
+        "brandName": "Winter Warmth",
+        "category": "tshirt",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644093/tshirt8_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644093/tshirt8_back.webp"
+        ],
+        "productDesc": "Stay warm with this long sleeve t-shirt, perfect for layering in cooler weather.",
+        "price": 1099,
+        "sellingPrice": 899,
+        "createdAt": {
+          "$date": "2024-06-18T17:09:22.894Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:04:29.884Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716b2aed5e63431cbf7949"
+        },
+        "productName": "Sleeveless T-Shirt",
+        "brandName": "Summer Vibes",
+        "category": "tshirt",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644104/tshirt9_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644104/tshirt9_back.webp"
+        ],
+        "productDesc": "A lightweight sleeveless t-shirt perfect for hot summer days.",
+        "price": 699,
+        "sellingPrice": 499,
+        "createdAt": {
+          "$date": "2024-06-18T17:09:55.013Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:05:13.334Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7949"
+        },
+        "productName": "Cotton Blend T-Shirt",
+        "brandName": "Eco Wear",
+        "category": "tshirt",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644110/tshirt10_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644110/tshirt10_back.webp"
+        ],
+        "productDesc": "Made from sustainable materials, this cotton blend t-shirt is both stylish and eco-friendly.",
+        "price": 899,
+        "sellingPrice": 699,
+        "createdAt": {
+          "$date": "2024-06-18T17:10:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-19T08:05:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7950"
+        },
+        "productName": "Chunky Knit Sweater",
+        "brandName": "Cozy Knit",
+        "category": "sweater",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/sweater1_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/sweater1_back.webp"
+        ],
+        "productDesc": "Stay warm and stylish with this chunky knit sweater, perfect for chilly days.",
+        "price": 1499,
+        "sellingPrice": 1199,
+        "createdAt": {
+          "$date": "2024-06-20T10:15:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-21T08:05:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7951"
+        },
+        "productName": "Cable Knit Sweater",
+        "brandName": "Urban Style",
+        "category": "sweater",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/sweater2_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/sweater2_back.webp"
+        ],
+        "productDesc": "This cable knit sweater combines comfort and style, making it a wardrobe essential.",
+        "price": 1399,
+        "sellingPrice": 1099,
+        "createdAt": {
+          "$date": "2024-06-20T10:20:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-21T08:10:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7952"
+        },
+        "productName": "Lightweight Pullover",
+        "brandName": "Chill Wear",
+        "category": "sweater",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/sweater3_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/sweater3_back.webp"
+        ],
+        "productDesc": "Perfect for layering, this lightweight pullover is both breathable and stylish.",
+        "price": 1199,
+        "sellingPrice": 899,
+        "createdAt": {
+          "$date": "2024-06-20T10:25:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-21T08:15:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7953"
+        },
+        "productName": "Hooded Sweater",
+        "brandName": "Sporty Look",
+        "category": "sweater",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/sweater4_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/sweater4_back.webp"
+        ],
+        "productDesc": "This hooded sweater offers a relaxed fit and is perfect for casual outings.",
+        "price": 1299,
+        "sellingPrice": 999,
+        "createdAt": {
+          "$date": "2024-06-20T10:30:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-21T08:20:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7954"
+        },
+        "productName": "Fleece Pullover",
+        "brandName": "Warmth Wear",
+        "category": "sweater",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/sweater5_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/sweater5_back.webp"
+        ],
+        "productDesc": "Cozy up in this fleece pullover, designed for ultimate comfort and warmth.",
+        "price": 999,
+        "sellingPrice": 799,
+        "createdAt": {
+          "$date": "2024-06-20T10:35:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-21T08:25:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7955"
+        },
+        "productName": "Classic Hoodie",
+        "brandName": "Urban Comfort",
+        "category": "hoodie",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/hoodie1_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/hoodie1_back.webp"
+        ],
+        "productDesc": "This classic hoodie is perfect for layering, offering comfort and style for any casual occasion.",
+        "price": 1299,
+        "sellingPrice": 999,
+        "createdAt": {
+          "$date": "2024-06-21T17:10:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-22T08:05:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7956"
+        },
+        "productName": "Graphic Print Hoodie",
+        "brandName": "Artistic Threads",
+        "category": "hoodie",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/hoodie2_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/hoodie2_back.webp"
+        ],
+        "productDesc": "Make a statement with this graphic print hoodie, featuring a bold design for those who love to stand out.",
+        "price": 1499,
+        "sellingPrice": 1199,
+        "createdAt": {
+          "$date": "2024-06-21T17:15:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-22T08:10:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7957"
+        },
+        "productName": "Zipper Hoodie",
+        "brandName": "Chill Style",
+        "category": "hoodie",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/hoodie3_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/hoodie3_back.webp"
+        ],
+        "productDesc": "This zipper hoodie offers versatility and ease, perfect for a relaxed day out or a workout.",
+        "price": 1399,
+        "sellingPrice": 1099,
+        "createdAt": {
+          "$date": "2024-06-21T17:20:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-22T08:15:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7958"
+        },
+        "productName": "Fleece Lined Hoodie",
+        "brandName": "Warmth Zone",
+        "category": "hoodie",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/hoodie4_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/hoodie4_back.webp"
+        ],
+        "productDesc": "Stay cozy with this fleece-lined hoodie, ideal for chilly evenings or lounging at home.",
+        "price": 1599,
+        "sellingPrice": 1299,
+        "createdAt": {
+          "$date": "2024-06-21T17:25:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-22T08:20:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7959"
+        },
+        "productName": "Athletic Hoodie",
+        "brandName": "Active Wear",
+        "category": "hoodie",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/hoodie5_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644111/hoodie5_back.webp"
+        ],
+        "productDesc": "This athletic hoodie is perfect for workouts, made with moisture-wicking fabric for ultimate performance.",
+        "price": 1399,
+        "sellingPrice": 1099,
+        "createdAt": {
+          "$date": "2024-06-21T17:30:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-22T08:25:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7960"
+        },
+        "productName": "Denim Jacket",
+        "brandName": "Classic Fit",
+        "category": "jacket",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644112/jacket1_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644112/jacket1_back.webp"
+        ],
+        "productDesc": "This timeless denim jacket is perfect for layering, offering a stylish look for all seasons.",
+        "price": 2499,
+        "sellingPrice": 1999,
+        "createdAt": {
+          "$date": "2024-06-21T17:35:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-22T08:30:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7961"
+        },
+        "productName": "Leather Jacket",
+        "brandName": "Urban Riders",
+        "category": "jacket",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644112/jacket2_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644112/jacket2_back.webp"
+        ],
+        "productDesc": "This classic leather jacket combines style and durability, making it a must-have for any wardrobe.",
+        "price": 4999,
+        "sellingPrice": 3999,
+        "createdAt": {
+          "$date": "2024-06-21T17:40:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-22T08:35:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7962"
+        },
+        "productName": "Puffer Jacket",
+        "brandName": "Warm & Cozy",
+        "category": "jacket",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644112/jacket3_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644112/jacket3_back.webp"
+        ],
+        "productDesc": "Stay warm with this puffer jacket, designed to provide insulation and comfort during cold weather.",
+        "price": 2999,
+        "sellingPrice": 2399,
+        "createdAt": {
+          "$date": "2024-06-21T17:45:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-22T08:40:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7963"
+        },
+        "productName": "Bomber Jacket",
+        "brandName": "Aero Style",
+        "category": "jacket",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644112/jacket4_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644112/jacket4_back.webp"
+        ],
+        "productDesc": "This bomber jacket adds a sporty touch to your outfit, making it perfect for casual outings.",
+        "price": 2499,
+        "sellingPrice": 1999,
+        "createdAt": {
+          "$date": "2024-06-21T17:50:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-22T08:45:54.019Z"
+        },
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "66716d12ed5e63431cbf7964"
+        },
+        "productName": "Windbreaker Jacket",
+        "brandName": "Outdoor Adventure",
+        "category": "jacket",
+        "productImage": [
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644112/jacket5_front.webp",
+          "http://res.cloudinary.com/dspumsfwh/image/upload/v1718644112/jacket5_back.webp"
+        ],
+        "productDesc": "This lightweight windbreaker jacket is perfect for breezy days and outdoor activities.",
+        "price": 1799,
+        "sellingPrice": 1399,
+        "createdAt": {
+          "$date": "2024-06-21T17:55:22.543Z"
+        },
+        "updatedAt": {
+          "$date": "2024-06-22T08:50:54.019Z"
+        },
+        "__v": 0
+      }
+  ]
+  
